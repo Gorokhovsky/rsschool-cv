@@ -8,7 +8,7 @@ But I bet you what. I know how to find the answer, and I will find the answer.
 Skills:
 Delphi,C,JS(started)
 Code examples:
-
+https://pastebin.com/DvyKMBmU
 Experience:
 University tasks
 Education:
