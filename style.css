@@ -1,0 +1,45 @@
+
+
+
+h2{
+    color: #c09ac0;
+    line-height: 1.8em;
+}
+
+.Resume{
+    font-weight: bold;
+    color: purple ;
+    text-align: center;
+}
+body{
+    background: #141E30;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+   color: AliceBlue;
+   line-height: 1.3em;
+   text-align: left;
+   width: 100%;
+   font-family: Helvetica;
+   font-size: 18px;
+   font-weight: bold;
+}
+
+.writer-img {
+    -webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: left;
+    width: 50px;
+}
+
+.byline {
+    font-family: Helvetica;
+    color: rgba(255, 255, 255, 0.5);
+    float: left;
+    font-size: 14px;
+    padding-left: 10px;
+    text-transform: uppercase;
+  }
